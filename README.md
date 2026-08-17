@@ -26,6 +26,8 @@ leetcode-75/
 │   └── solution.py
 │
 └── ...
+```
+
 ## 📈 Progress
 
 > 🚧 This repository is actively being updated as I solve more problems.
