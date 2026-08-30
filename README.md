@@ -32,7 +32,7 @@ leetcode-75/
 
 > 🚧 This repository is actively being updated as I solve more problems.
 
-**Problems solved:** `04 / 75`
+**Problems solved:** `07 / 75`
 
 ---
 
